@@ -4,9 +4,6 @@ server:
 
 #Spring configuration
 spring:
-  devtools:
-    livereload:
-      enabled: true
   #application:
     #name: eureka-server
 
